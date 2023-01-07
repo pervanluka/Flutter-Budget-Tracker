@@ -1,5 +1,6 @@
 # Flutter-Budget-Tracker
 Budget tracker with: 
+- Provider
 - NoSQL database
 - SharedPrefereces
 
